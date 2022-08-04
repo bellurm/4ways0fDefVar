@@ -1,17 +1,18 @@
 package main
 
-import "fmt"
-
 func print4way() {
-	var studentName, grade, isPassed = "John Doe", 77, true
-	fmt.Println(studentName)
-	fmt.Println(grade)
-	fmt.Println(isPassed)
+	/*
+		var studentName, grade, isPassed = "John Doe", 77, true
+		fmt.Println(studentName)
+		fmt.Println(grade)
+		fmt.Println(isPassed)
+	*/
 
-	/* studentName, grade, isPassed := "John Doe", 77, true
-	fmt.Println(studentName)
-	fmt.Println(grade)
-	fmt.Println(isPassed)
+	/*
+		studentName, grade, isPassed := "John Doe", 77, true
+		fmt.Println(studentName)
+		fmt.Println(grade)
+		fmt.Println(isPassed)
 	*/
 
 	/*
@@ -35,6 +36,7 @@ func print4way() {
 		fmt.Println(grade)
 		fmt.Println(isPassed)
 	*/
+
 	/*
 		studentName := "John Doe"
 		grade := 77
